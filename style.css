@@ -1,0 +1,56 @@
+h1 {
+  color: #990000;
+  font-family: Rockwell;
+  font-size: 40px;
+  line-height: 2.0;
+}
+
+h2 {
+  color: #525143;
+  font-family: Rockwell;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+p {
+  color: #1d0b03;
+  font-family: Rockwell;
+}
+
+a {
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+  color: #531111;
+  font-weight: 650;
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #660b38;
+}
+
+body {
+ background: linear-gradient(#6D8B74, #383638 )
+ }
+
+ .card {
+  background-color: 98B4AA;
+  padding: 15px;
+  width: 500px;
+  margin: 25px auto;
+  border-radius: 20px;
+  border: 2px solid #0c0101;
+  text-align: center;
+}
+
+#profile-pic {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+ul {
+  padding-inline-start: 0px;
+  list-style: none;
+}
